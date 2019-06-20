@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">GlossaryApp</string>
+
+    <string name="button_next">Next Definition</string>
 </resources>
